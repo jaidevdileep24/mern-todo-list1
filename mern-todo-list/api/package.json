@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "npm run dev",
-    "dev": "nodemon server.js",
+    
+    "start": "nodemon server.js",
     "build": "npm i"
   },
   "author": "\"jaidevdileep\"",
